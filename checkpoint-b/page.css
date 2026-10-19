@@ -1,0 +1,10 @@
+/* Checkpoint B — your styling. Build it to checkpoint-b/spec.md. */
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #fdfdfb;
+}
+
+.stock-line {
+  padding: 0.5rem;
+  color: #1a1a1a;
+}
